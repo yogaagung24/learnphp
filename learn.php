@@ -4,9 +4,11 @@
         <title><?php echo "Belajar PHP" ?></title>
     </head>
     <body>
-        <?php
-            echo "saya sedang belajar PHP<br>";
-            echo "<p>Belajar PHP</p>";
-        ?>
+    <?php
+
+$nama = "petanikode";
+$NAMA = "dian";
+
+?>
     </body>
 </html>
